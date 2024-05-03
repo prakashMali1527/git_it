@@ -4,3 +4,5 @@ touchscreen
 scratchless-gorilla glass
 
 fingers Lock
+
+HD camera
